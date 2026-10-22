@@ -33,7 +33,7 @@ import {
 import { SiteNav } from "@/components/SiteNav";
 import { Reveal } from "@/components/Reveal";
 import { FloatingActions } from "@/components/FloatingActions";
-
+import { Analytics } from "@vercel/analytics/next"
 import {
   imgAdwiPlaque,
   imgAdwiDutaFull,
